@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "title": "Music Class",
+    "class_details": "How  to play musical instruments and explore your talent.",
+    "time": "10:00 AM - 11:00 AM",
+    "days": "Monday, Wednesday, Friday",
+    "age": "5-10 years",
+    "image": "https://i.im.ge/2025/01/21/HQULwT.th-15.jpeg",
+    "teacher_name": "Mr. John Doe",
+    "teacher_img": "https://i.im.ge/2025/01/22/HQpVFX.th-29.jpeg",
+    "experience": "10 years of teaching music to kids.",
+    "importance_of_learning": "Music fosters creativity, improves memory, and builds discipline, helping kids develop critical skills for future growth.",
+    "ratings": 4.8,
+    "enrolled": 25,
+    "reviews": [
+      "My child loves the music class and has learned so much!",
+      "Great teacher and a fun environment."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Art Class",
+    "class_details": "Discover the world of colors and creativity.",
+    "time": "11:30 AM - 12:30 PM",
+    "days": "Tuesday, Thursday",
+    "age": "6-12 years",
+    "image": "https://i.im.ge/2025/01/21/HQUsam.th-9.jpeg",
+    "teacher_name": "Ms. Emily Rose",
+    "teacher_img": "https://i.im.ge/2025/01/22/HQp6nT.th-27.jpeg",
+    "experience": "8 years of experience in teaching art and design.",
+    "importance_of_learning": "Art nurtures imagination, enhances problem-solving skills, and boosts emotional expression in children.",
+    "ratings": 4.7,
+    "enrolled": 18,
+    "reviews": [
+      "The art projects are so creative and engaging!",
+      "Ms. Emily is wonderful and very patient."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Yoga Class",
+    "class_details": "How to yoga for flexibility and mindfulness.",
+    "time": "08:00 AM - 09:00 AM",
+    "days": "Monday to Friday",
+    "age": "4-8 years",
+    "image": "https://i.im.ge/2025/01/21/HQUSb1.th-7.jpeg",
+    "teacher_name": "Ms. Sarah Lee",
+    "teacher_img": "https://example.com/images/teacher-sarah.jpg",
+    "experience": "6 years of yoga teaching experience for kids.",
+    "importance_of_learning": "Yoga improves physical strength, enhances concentration, and supports mental well-being.",
+    "ratings": 4.9,
+    "enrolled": 30,
+    "reviews": [
+      "The yoga sessions have improved my child's focus and balance.",
+      "Ms. Sarah makes yoga so much fun for the kids!"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Dance Class",
+    "class_details": "Move to the rhythm and learn exciting dance steps.",
+    "time": "02:00 PM - 03:00 PM",
+    "days": "Wednesday, Friday",
+    "age": "7-14 years",
+    "image": "https://i.im.ge/2025/01/21/HQU0hG.jpeg",
+    "teacher_name": "Mr. Mike Brown",
+    "teacher_img": "https://i.im.ge/2025/01/22/HQH9CF.th-22.jpeg",
+    "experience": "12 years of experience in various dance forms.",
+    "importance_of_learning": "Dance helps children build confidence, improve coordination, and express themselves creatively.",
+    "ratings": 4.6,
+    "enrolled": 22,
+    "reviews": [
+      "My daughter looks forward to every dance class!",
+      "The choreography is fantastic and age-appropriate."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Science Explorers",
+    "class_details": "Engage in fun experiments and discover science.",
+    "time": "03:30 PM - 04:30 PM",
+    "days": "Tuesday, Thursday",
+    "age": "8-12 years",
+    "image": "https://i.im.ge/2025/01/21/HQUfip.Student-in-class-ideas-for-your-classroom.jpeg",
+    "teacher_name": "Dr. Alan Smith",
+    "teacher_img": "https://i.im.ge/2025/01/22/HQH66X.th-18.jpeg",
+    "experience": "15 years as a science educator and researcher.",
+    "importance_of_learning": "Science inspires curiosity, enhances critical thinking, and builds a foundation for lifelong learning.",
+    "ratings": 4.8,
+    "enrolled": 28,
+    "reviews": [
+      "My son loves the experiments and always talks about them at home!",
+      "Dr. Alan makes science exciting and easy to understand"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Cooking Class",
+    "class_details": "Learn basic cooking skills and make delicious recipes.",
+    "time": "01:00 PM - 02:00 PM",
+    "days": "Monday, Wednesday",
+    "age": "9-13 years",
+    "image": "https://i.im.ge/2025/01/21/HQUdBf.th-8.jpeg",
+    "teacher_name": "Chef Laura Bennett",
+    "teacher_img": "https://i.im.ge/2025/01/22/HQpmIW.th-28.jpeg",
+    "experience": "10 years of culinary teaching experience.",
+    "importance_of_learning": "Cooking encourages creativity, teaches life skills, and helps develop healthy eating habits.",
+    "ratings": 4.5,
+    "enrolled": 15,
+    "reviews": [
+      "The recipes are easy and delicious!",
+      "Chef Laura is amazing and inspires my child to cook at home."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sports Club",
+    "class_details": "Play and improve your skills in various sports.",
+    "time": "04:00 PM - 05:30 PM",
+    "days": "Monday to Friday",
+    "age": "8-14 years",
+    "image": "https://i.im.ge/2025/01/21/HQUze1.th-6.jpeg",
+    "teacher_name": "Coach David Clark",
+    "teacher_img": "https://i.im.ge/2025/01/22/HQHy0M.th-24.jpeg",
+    "experience": "15 years as a professional sports coach.",
+    "importance_of_learning": "Sports foster teamwork, improve physical fitness, and instill a sense of discipline.",
+    "ratings": 4.7,
+    "enrolled": 35,
+    "reviews": [
+      "My child loves the variety of sports offered.",
+      "Coach David is very supportive and encouraging."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Drama Class",
+    "class_details": "Explore acting and stage performance skills.",
+    "time": "10:30 AM - 11:30 AM",
+    "days": "Tuesday, Thursday",
+    "age": "7-12 years",
+    "image": "https://i.im.ge/2025/01/21/HQUWw4.th-2.jpeg",
+    "teacher_name": "Ms. Anna Taylor",
+    "teacher_img": "https://i.im.ge/2025/01/22/HQppLY.th-30.jpeg",
+    "experience": "7 years of experience in theater and drama teaching.",
+    "importance_of_learning": "Drama enhances communication skills, boosts self-confidence, and encourages creativity.",
+    "ratings": 4.6,
+    "enrolled": 20,
+    "reviews": [
+      "The drama exercises are so much fun!",
+      "Ms. Anna really helps kids come out of their shells."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Math Wizards",
+    "class_details": "Boost your math skills with fun activities.",
+    "time": "09:00 AM - 10:00 AM",
+    "days": "Monday, Wednesday, Friday",
+    "age": "6-10 years",
+    "image": "https://i.im.ge/2025/01/21/HQU7HW.th-13.jpeg",
+    "teacher_name": "Mr. Robert King",
+    "teacher_img": "https://i.im.ge/2025/01/22/HQHw29.th-20.jpeg",
+    "experience": "9 years of teaching advanced math to kids.",
+    "importance_of_learning": "Math builds logical reasoning, enhances problem-solving, and lays the groundwork for academic success.",
+    "ratings": 4.9,
+    "enrolled": 40,
+    "reviews": [
+      "My son’s math skills have improved tremendously!",
+      "The activities are very engaging and educational."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Potering",
+    "class_details": "Learn about plants and grow your own garden.",
+    "time": "03:00 PM - 04:00 PM",
+    "days": "Thursday, Saturday",
+    "age": "5-10 years",
+    "image": "https://i.im.ge/2025/01/22/HQHAcY.th-25.jpeg",
+    "teacher_name": "Ms. Olivia Green",
+    "teacher_img": "https://example.com/images/teacher-olivia.jpg",
+    "experience": "5 years of experience in botany and gardening.",
+    "importance_of_learning": "Potering teaches responsibility, nurtures patience, and encourages a love for nature.",
+    "ratings": 4.7,
+    "enrolled": 20,
+    "reviews": [
+      "My son’s potering skills have improved tremendously!",
+      "The activities are very engaging, clamming and educational."
+    ]
+  }
+]
